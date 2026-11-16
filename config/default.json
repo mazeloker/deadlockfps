@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "vertical_offset": 0.0,
+  "fov_degrees": 90.0,
+  "smoothing": 0.15,
+  "near_clip": 2.0,
+  "note": "Example settings only; no live-game adapter is included."
+}
